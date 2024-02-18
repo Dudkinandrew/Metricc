@@ -21,12 +21,11 @@ body {
     margin-bottom: 150px; 
 }
 .picture-text {
-    width: 430px;
+    width: 470px;
     font-size: 20px;
-    font-style: normal;
     font-weight: 400;
-    line-height: normal;
-    letter-spacing: -0.6px;
+    line-height: 27.32px;
+    letter-spacing: -0.5px;
     color: #fff;
     padding-top: 379px;
     padding-left: 40px;
